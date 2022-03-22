@@ -1,6 +1,5 @@
-# ionic
-curso de ionic https://www.udemy.com/course/ionic-ios-android-pwa-appstore-playstore-push/learn/lecture/13388684#notes
-
+# ionic 
+* [curso de ionic](https://www.udemy.com/course/ionic-ios-android-pwa-appstore-playstore-push/learn/lecture/13388684#notes)
 # Instalaciones recomendadas - Curso de ionic
 
 ## Instalaciones Necesarias
