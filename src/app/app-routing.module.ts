@@ -41,10 +41,22 @@ const routes: Routes = [
     loadChildren: () => import('./pages/fab/fab.module').then( m => m.FabPageModule)
   },
   {
+    path: 'grid',
+    loadChildren: () => import('./pages/grid/grid.module').then( m => m.GridPageModule)
+  },
+  {
+    path: 'scroll',
+    loadChildren: () => import('./pages/scroll/scroll.module').then( m => m.ScrollPageModule)
+  },
+  {
+    path: 'input',
+    loadChildren: () => import('./pages/input/input.module').then( m => m.InputPageModule)
+  },
+  {
     path: '',
     redirectTo: 'inicio',
     pathMatch: 'full'
-  }
+  },
   // ,
   // {
   //   path: '**',
