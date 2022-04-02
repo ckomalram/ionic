@@ -80,6 +80,24 @@ export class InicioPage implements OnInit {
         name: 'Input',
         redirectTo: '/input'
       }
+      ,
+      {
+        icon: 'list-outline',
+        name: 'List-Sliding',
+        redirectTo: '/list'
+      }
+      ,
+      {
+        icon: 'list-outline',
+        name: 'List-Order',
+        redirectTo: '/list-order'
+      }
+      ,
+      {
+        icon: 'refresh-circle-outline',
+        name: 'Loading',
+        redirectTo: '/loading'
+      }
     ];
   }
 

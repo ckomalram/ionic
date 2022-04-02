@@ -53,10 +53,23 @@ const routes: Routes = [
     loadChildren: () => import('./pages/input/input.module').then( m => m.InputPageModule)
   },
   {
+    path: 'list',
+    loadChildren: () => import('./pages/list/list.module').then( m => m.ListPageModule)
+  },
+  {
+    path: 'list-order',
+    loadChildren: () => import('./pages/list-order/list-order.module').then( m => m.ListOrderPageModule)
+  }
+  ,
+  {
+    path: 'loading',
+    loadChildren: () => import('./pages/loading/loading.module').then( m => m.LoadingPageModule)
+  },
+  {
     path: '',
     redirectTo: 'inicio',
     pathMatch: 'full'
-  },
+  }
   // ,
   // {
   //   path: '**',
