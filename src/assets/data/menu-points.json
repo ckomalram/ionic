@@ -87,4 +87,16 @@
     "name": "Modal",
     "redirectTo": "/modal"
   }
+  ,
+  {
+    "icon": "logo-tableau",
+    "name": "Popover",
+    "redirectTo": "/popover"
+  }
+  ,
+  {
+    "icon": "code-working-outline",
+    "name": "Progress Bar",
+    "redirectTo": "/progress"
+  }
 ]
