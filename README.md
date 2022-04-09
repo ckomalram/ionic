@@ -53,3 +53,15 @@ git config --global user.email "Tu correo"
 * [Monokai Night](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-monokai-night)
 
 * [Iconos](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+
+### Links de apoyo para complementar
+* [Animaciones](https://animate.style/)
+
+* [Iconos de Ionic](https://ionic.io/ionicons)
+
+* [Documentación v6 Ionic](https://ionicframework.com/docs)
+
+* https://gist.github.com/Klerith/6a12c5721108b9d064d1c231e2a3b58d
+
+* https://ionicframework.com/docs/theming/color-generator/
+

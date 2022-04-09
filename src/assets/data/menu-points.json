@@ -99,4 +99,38 @@
     "name": "Progress Bar",
     "redirectTo": "/progress"
   }
+  ,
+  {
+    "icon": "cloud-download-outline",
+    "name": "Refresher",
+    "redirectTo": "/refresher"
+  }
+  ,
+  {
+    "icon": "search-outline",
+    "name": "Search",
+    "redirectTo": "/search"
+  }
+  ,
+  {
+    "icon": "copy-outline",
+    "name": "Segment",
+    "redirectTo": "/segment"
+  } ,
+  {
+    "icon": "albums-outline",
+    "name": "Slides",
+    "redirectTo": "/slides"
+  }
+  ,
+  {
+    "icon": "code-outline",
+    "name": "Tabs",
+    "redirectTo": "/tabs"
+  },
+  {
+    "icon": "pricetag-outline",
+    "name": "Toast",
+    "redirectTo": "/toast"
+  }
 ]
